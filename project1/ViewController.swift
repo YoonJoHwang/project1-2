@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     //@IBOutlet weak var cosmosView: CosmosView!
     
+    @IBOutlet var pickerView: UILabel!
     //var Array = ["페스코", "락토", "비건"]
 
     override func viewDidLoad() {
